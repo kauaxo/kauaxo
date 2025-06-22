@@ -2,9 +2,16 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio e também técnico em libras no IFRS. Atualmente, estou cursando Ciência da Computação na UFRGS. Sou apaixonado por tecnologia, principalmente pela área do Back End.
-
+Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio de forma posterior e, em seguida, cursei dois anos de Técnico em Tradução e Interpretação de Libras no IFRS. Atualmente, estou cursando Ciência da Computação na UFRGS. Sou apaixonado por tecnologia, com especial interesse na área de Back-End.
 ---
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-coelho-monteiro-3aa10a326/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauaxo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauacoelhomonteiro/?next=%2F)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatokauacm@gmail.com)
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -34,11 +41,11 @@ Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -82,11 +89,11 @@ Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
@@ -136,9 +143,10 @@ Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaxo&theme=ambient_gradient&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaxo&theme=ambient_gradient&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
   
