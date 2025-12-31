@@ -2,11 +2,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
+#👨‍💻 kaua c.m
 
-<p align="left">Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio de forma posterior e, em seguida, cursei dois anos de Técnico em Tradução e Interpretação de Libras no IFRS. Atualmente, estou cursando Ciência da Computação na UFRGS. Sou apaixonado por tecnologia, com especial interesse na área de Back-End.</p>
+**`Desenvolvedor FullStack`**
 
-###
+Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio de forma posterior e, em seguida, cursei dois anos de Técnico em Tradução e Interpretação de Libras no IFRS. Atualmente, estou cursando Ciência da Computação na UFRGS. Sou apaixonado por tecnologia, com especial interesse na área de Back-End.
+---
 
 <img align="right" height="155" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU4bGpzMzdpYmg2N2F3Mmc1cDU4aDhqMXdjOGN3bmNzcmdqNWdxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
